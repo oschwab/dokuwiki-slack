@@ -1,0 +1,7 @@
+base   slack
+author Olivier Schwab
+email  olivier.schwab72@gmail.com
+date   2015-07-21
+name   Slack plugin
+desc   Notify a Slack room on page saves
+url    
