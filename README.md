@@ -16,4 +16,4 @@ $ git clone https://github.com/oschwab/dokuwiki-slack.git /var/lib/dokuwiki/lib/
 
 1. Create an Incoming Webhook on [Slack ](https://my.slack.com/services/new/incoming-webhook/)
 
-2. Enter the webhook into the dowkuiki-slack plugin configuration section in DokuWiki's Configuration Settings
+2. Enter the webhook into the dokuwiki-slack plugin configuration section in DokuWiki's Configuration Settings
